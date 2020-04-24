@@ -22,6 +22,7 @@
 		6F54297F2451B1BC00350066 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6F5429822451B1BC00350066 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F5429842451B1BC00350066 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6FD0F3DB2451C57000F44F83 /* Pokus copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Pokus copy-Info.plist"; path = "/Users/stomsa/Vývoj/Swift/Pokus/Pokus copy-Info.plist"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 			children = (
 				6F5429772451B1BA00350066 /* Pokus */,
 				6F5429762451B1BA00350066 /* Products */,
+				6FD0F3DB2451C57000F44F83 /* Pokus copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -282,6 +284,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Pokus/Preview Content\"";
+				DEVELOPMENT_TEAM = RNBSDK9AR8;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Pokus/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -301,6 +304,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Pokus/Preview Content\"";
+				DEVELOPMENT_TEAM = RNBSDK9AR8;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Pokus/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (

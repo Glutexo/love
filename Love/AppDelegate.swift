@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Pokus
+//  Love
 //
 //  Created by Štěpán Tomsa on 23/04/2020.
 //  Copyright © 2020 Glutexo. All rights reserved.
